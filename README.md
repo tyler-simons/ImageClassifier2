@@ -18,7 +18,7 @@ You can install them by running:
 ## Usage
 
 1. Clone the repository and navigate to the project folder.
-2. Add your images to the `./images` folder.
+2. Create a `./images` folder and add your images to it. 
 3. Run the app by running the following command in your terminal:
    `streamlit run streamlit_app.py`
 4. In the sidebar, enter the folder path where your images are located.
