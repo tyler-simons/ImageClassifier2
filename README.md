@@ -4,18 +4,21 @@ This is a Streamlit app that allows you to classify images and record their clas
 
 ## Requirements
 
-We need a venv. Install and source a virtual enviornment
+We need a venv. Install and source a virtual enviornment  
+
 `python3 -m venv venv`
+  
 `source venv/bin/activate`
 
 Before running the app, you need to have the streamlit requirements installed
-You can install them by running:
+You can install them by running:  
+
 `pip install -r requirements.txt`
 
 ## Usage
 
 1. Clone the repository and navigate to the project folder.
-2. Add your images to the `./images` folder.
+2. Create a `./images` folder and add your images to it. 
 3. Run the app by running the following command in your terminal:
    `streamlit run streamlit_app.py`
 4. In the sidebar, enter the folder path where your images are located.
