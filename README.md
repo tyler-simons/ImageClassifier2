@@ -4,8 +4,10 @@ This is a Streamlit app that allows you to classify images and record their clas
 
 ## Requirements
 
-We need a venv. Install and source a virtual enviornment
+We need a venv. Install and source a virtual enviornment  
+
 `python3 -m venv venv`
+  
 `source venv/bin/activate`
 
 Before running the app, you need to have the streamlit requirements installed
