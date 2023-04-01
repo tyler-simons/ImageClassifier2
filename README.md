@@ -11,7 +11,8 @@ We need a venv. Install and source a virtual enviornment
 `source venv/bin/activate`
 
 Before running the app, you need to have the streamlit requirements installed
-You can install them by running:
+You can install them by running:  
+
 `pip install -r requirements.txt`
 
 ## Usage
